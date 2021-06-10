@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Cursul13Application {
 
+
+	// start of the application
 	public static void main(String[] args) {
 		SpringApplication.run(Cursul13Application.class, args);
 	}
